@@ -5,6 +5,6 @@ Flutter ile localdatabase kullanılarak todo app uygulama geliştirildi
 - Provider olarak Riverpod kullanılmıştır
 </br>
 (Uygulama geliştiren / tasarım & yazılım Halil ibrahim KAYA)
-[<img src="https://i.hizliresim.com/ir5mhcx.png" width="50%">]
+<img src="https://i.hizliresim.com/ir5mhcx.png" width="46%">
 
 
